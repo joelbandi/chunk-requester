@@ -1,0 +1,17 @@
+{
+  "name": "chunk-requester",
+  "version": "1.1.0",
+  "description": "Perform asynchronous actions in batches",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "Joel Bandi",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.chunk": "^4.2.0"
+  }
+}
